@@ -2,7 +2,7 @@ Learning to make better software
 
 Here are some numbers thanks to the developers and contributors of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=the-lazy-learner&theme=transparent)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sudhansubhushanmishra&theme=transparent)
 -----------------------
 
 ### Recent Activity 
@@ -24,5 +24,5 @@ Here are some numbers thanks to the developers and contributors of [github-readm
 
 <details>
   <summary>Most used languages recently:</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lazy-learner&langs_count=8&layout=compact&theme=transparent" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhansubhushanmishra&langs_count=8&layout=compact&theme=transparent" alt="Most Used Languages">
 </details>
